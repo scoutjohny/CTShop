@@ -1,0 +1,1 @@
+{"uuid":"e1fc4a6d-8559-4f82-ac25-0e30957f3573","name":"tests.CTShopTest.setup","children":["561c2553-5f0d-4273-9220-5c41b798c29d"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1719946647031,"stop":1719946651656}],"afters":[],"start":1719946647030,"stop":1719946651657}
